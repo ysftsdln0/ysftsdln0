@@ -84,18 +84,12 @@ const yusuf = {
 
 <div align="center">
 
-<a href="https://github.com/ysftsdln0/SarjEt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysftsdln0&repo=SarjEt&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=EC4899&bg_color=0D1117" />
-</a>
-<a href="https://github.com/ysftsdln0/VisionCursor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysftsdln0&repo=VisionCursor&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=EC4899&bg_color=0D1117" />
-</a>
-<a href="https://github.com/ysftsdln0/minesweeper-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysftsdln0&repo=minesweeper-ai&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=EC4899&bg_color=0D1117" />
-</a>
-<a href="https://github.com/ysftsdln0/my-portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ysftsdln0&repo=my-portfolio&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&icon_color=EC4899&bg_color=0D1117" />
-</a>
+| Project | Stack | Stars | Last commit |
+|---|---|---|---|
+| **[SarjEt](https://github.com/ysftsdln0/SarjEt)** — EV charging station finder | ![](https://img.shields.io/github/languages/top/ysftsdln0/SarjEt?style=flat-square&labelColor=0D1117&color=8B5CF6) | ![](https://img.shields.io/github/stars/ysftsdln0/SarjEt?style=flat-square&labelColor=0D1117&color=EC4899) | ![](https://img.shields.io/github/last-commit/ysftsdln0/SarjEt?style=flat-square&labelColor=0D1117&color=6366F1) |
+| **[VisionCursor](https://github.com/ysftsdln0/VisionCursor)** — hands-free cursor control | ![](https://img.shields.io/github/languages/top/ysftsdln0/VisionCursor?style=flat-square&labelColor=0D1117&color=8B5CF6) | ![](https://img.shields.io/github/stars/ysftsdln0/VisionCursor?style=flat-square&labelColor=0D1117&color=EC4899) | ![](https://img.shields.io/github/last-commit/ysftsdln0/VisionCursor?style=flat-square&labelColor=0D1117&color=6366F1) |
+| **[minesweeper-ai](https://github.com/ysftsdln0/minesweeper-ai)** — minesweeper solver | ![](https://img.shields.io/github/languages/top/ysftsdln0/minesweeper-ai?style=flat-square&labelColor=0D1117&color=8B5CF6) | ![](https://img.shields.io/github/stars/ysftsdln0/minesweeper-ai?style=flat-square&labelColor=0D1117&color=EC4899) | ![](https://img.shields.io/github/last-commit/ysftsdln0/minesweeper-ai?style=flat-square&labelColor=0D1117&color=6366F1) |
+| **[my-portfolio](https://github.com/ysftsdln0/my-portfolio)** — personal site | ![](https://img.shields.io/github/languages/top/ysftsdln0/my-portfolio?style=flat-square&labelColor=0D1117&color=8B5CF6) | ![](https://img.shields.io/github/stars/ysftsdln0/my-portfolio?style=flat-square&labelColor=0D1117&color=EC4899) | ![](https://img.shields.io/github/last-commit/ysftsdln0/my-portfolio?style=flat-square&labelColor=0D1117&color=6366F1) |
 
 </div>
 
