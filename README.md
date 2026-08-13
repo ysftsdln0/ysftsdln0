@@ -131,3 +131,5 @@ const yusuf = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" />
 
 </div>
+
+<!-- reindex -->
