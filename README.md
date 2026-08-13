@@ -69,16 +69,12 @@ const yusuf = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ysftsdln0&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=9CA3AF&bg_color=0D1117&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysftsdln0&layout=compact&hide_border=true&title_color=8B5CF6&text_color=9CA3AF&bg_color=0D1117&langs_count=8" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=ysftsdln0&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280" />
+<img height="195" src="https://streak-stats.vercel.app/?user=ysftsdln0&hide_border=true&background=0D1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=6B7280" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ysftsdln0&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://img.shields.io/github/followers/ysftsdln0?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/ysftsdln0?affiliations=OWNER&style=for-the-badge&color=EC4899&labelColor=0D1117&logo=github&label=TOTAL%20STARS" />
 
 </div>
 
