@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Yusuf%20Efe%20Ta%C5%9Fdelen&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Builder&descAlignY=54&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=200&section=header&text=Yusuf%20Efe%20Ta%C5%9Fdelen&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Builder&descAlignY=54&descSize=18&animation=fadeIn&v=2" />
 
 <a href="https://twitter.com/ysftsdln">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=while(alive)+%7B+build();+ship();+repeat();+%7D;TypeScript+%2B+React+%2B+Next.js;Swift+%2B+SwiftUI+%2B+iOS;Eski%C5%9Fehir+Osmangazi+University+%E2%80%94+CS" alt="Typing SVG" />
@@ -118,7 +118,7 @@ const yusuf = {
 <a href="https://twitter.com/ysftsdln"><img src="https://img.shields.io/badge/DM_on_X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/ysftsdln0?tab=followers"><img src="https://img.shields.io/github/followers/ysftsdln0?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&v=2" />
 
 </div>
 
